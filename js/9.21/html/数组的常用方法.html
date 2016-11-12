@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+	<script type="text/javascript">
+		//检测数组:判断变量是不是数组 Array.isArray
+	
+		var a=1234;
+		var b=[1,2,3,4]
+
+		function isArray(a){
+			dasd
+		}
+		//返回布尔类型的值 是数组true false  (console.error---检查错误())
+		console.log(Array.isArray(b));
+		console.warn(b)//警告
+		console.error(b);
+		var num=123456;
+		console.log(typeof num.toString())
+		var arr=[1,2,3,4];
+		//数组转换为字符方法toString   原数组依然是数组
+		var num1=arr.toString();
+		console.log(num1)
+		console.log(arr.toString());
+		//把数字的元素使用指定符号拼接成字符串返回出来
+		console.log(arr.join('*'));
+
+		var arr2=[1,2,3,4,5];
+		var sum=0;
+		for(var i=0;i<arr2.length;i++){
+			sum+=arr2[i];
+		}
+		console.log(arr2.join("+")+"="+sum);
+		//push() 从元素末尾添加新元素原数组改变   返回 值是数组的长度----数组栈空间
+		var count=arr2.push(7);
+		console.log(count);
+		arr2.pop();
+		arr2.pop();
+		arr2.pop();
+		console.log(arr2);
+		//unshift  shift返回值是数组的长度
+		var arr3=[1,2,3,4,5];
+		var n=arr3.unshift(2);
+		console.log(arr3);
+		console.log(n);
+		arr3.shift();
+		arr3.shift();
+		console.log(arr3)
+
+	/*	var arr4=[12,45,6,7,8,99];
+		arr4.sort(sort)
+		//console.log(arr4.sort())
+		function sort(a,b){
+			return a-b;
+		}*/
+		//console.log(arr4.sort(sort));
+		var arr5=[4,55,3,7,66,99,1]
+		//reverse
+		//console.log(arr5.reverse());
+		var arr6=['a' ,'ad' , 'd', 'c' ,'b']
+		arr6.sort(sort);
+		function sort(a,b){
+			return a-b;
+		}
+		console.log(arr6.sort())
+
+
+		var arr7=[1,2,4,5,6];
+		//一个元素就是指定下表开始截取
+		console.log(arr7.slice(1));
+
+	</script>
+	
+</body>
+</html>

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+		<script type="text/javascript">
+		
+		// 获取浏览器主窗口距离屏幕左侧和顶部的间隔
+		// 获取到的值是以像素为单位的数值
+		// 在火狐下，使用screenX\screenY获取间隔
+//			console.log(window.screenLeft)
+//			console.log(window.screenTop)
+
+		// 获取浏览器的宽高:获取到的是显示用户页面的窗口宽高，如果调出了控制台或工具栏，则宽高不包括这些元素
+//		console.log(window.innerWidth);
+//		console.log(window.innerHeight);
+
+				
+		window.open('http://www.baidu.com', 'hello', 'height=200,width=200,left=0,top=0,location=1');
+		
+		</script>
+	</head>
+	<body>
+		
+		<a href="http://www.baidu.com" target="hello">百度一下</a>
+		<a href="http://www.sina.com" target="hello">sina</a>
+		
+	</body>
+
+</html>

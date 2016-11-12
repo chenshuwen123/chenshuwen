@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+		<script type="text/javascript">
+			// DOM0级事件的处理方式：
+			window.onload = function(){
+				var div =document.querySelector('#div');
+//				div.onclick = function(){
+//					alert('你摸我干啥');
+//				}
+
+				
+				
+				function sayHi () {
+					alert('你摸我干啥');
+				}
+				// 在标准浏览器中，DOM2级事件处理方法：
+				div.addEventListener('click', sayHi);
+				
+				
+				// IE8以及之前浏览器DOM2级事件处理方法
+//				div.attachEvent('onclick', sayHi);
+				
+			}
+		</script>
+	</head>
+	<body>
+		<div id="div" style="width: 100px; height: 100px; background: red;"></div>
+	</body>
+</html>

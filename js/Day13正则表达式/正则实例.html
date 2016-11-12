@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+		<script type="text/javascript">
+			// 判断字符串中全部由数字构成
+			// 字符开始位置、结束位置、中间位置只有数字
+			// /^\d+$/
+			
+			var str = '12345657';
+			var regExp = /^\d+$/;
+//			alert(regExp.test(str));
+			
+			// 文件后缀为pdf
+			// 前边字符随意，结尾是以.pdf为结尾
+			// /.+\.pdf$/
+			
+			var str1 = 'as.pdf';
+			var regExp1 = /.+(\.pdf)$/;
+//			alert(regExp1.test(str1));
+
+			// 判断手机号
+			// 1开头  3、4、5、7、8、9第二位 剩下9为从0-9；
+			// /^1[345789]\d{9}$/
+			var str2 = '13333333333';
+			var regExp2 = /^1[345789]\d{9}$/;
+//			alert(regExp2.test(str2));
+
+			// 判断邮箱
+			// 开头是字母、数字、下划线++@++数字、字母下划线++.++[A-z]{2,6}
+			// /^\w+@\w+\.[A-z]{2,6}$/
+			var str3 = 'wefwe@126.com';
+			var regExp3 = /^\w+@\w+\.[A-z]{2,6}$/;
+//			alert(regExp3.test(str3));
+			
+			
+			
+			
+			
+			
+			
+			
+		</script>
+	</head>
+	<body>
+	</body>
+</html>

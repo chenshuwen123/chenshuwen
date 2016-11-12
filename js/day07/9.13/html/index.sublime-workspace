@@ -1,0 +1,287 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"img",
+				"imgs"
+			],
+			[
+				"get",
+				"getSeconds"
+			],
+			[
+				"remove",
+				"removeChild"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"op",
+				"option"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"con",
+				"condition"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 272.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Remove Package→删除程序包"
+			]
+		],
+		"width": 632.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Administrator/Desktop/李萍/js/index.js",
+		"/C/Users/Administrator/Desktop/新建文件夹 (3)/6.html",
+		"/C/Users/Administrator/Desktop/1612机试/test/html/index.html",
+		"/E/js3周/test/js/index1.js",
+		"/E/js3周/test/shopping.html",
+		"/E/js初级/work1_day6/demo2.html",
+		"/E/js第二周/9.2/dom属性作业/网页换肤/css2.css",
+		"/E/js第二周/9.2/dom属性作业/网页换肤/style.html",
+		"/E/js第二周/9.5/day11/demo1.html",
+		"/E/js第二周/9.2/第11节课--DOM属性/demo_1/JS简易年历/qf_demo.html",
+		"/E/js第二周/9.2/第12节课--DOM方法/demo_1/index.html",
+		"/E/js第二周/9.6/day12/demo.html",
+		"/E/js第二周/9.6/第10节课--BOM/demo/7图片轮播效果.html",
+		"/E/js第二周/9.6/day12/提示信息.html",
+		"/E/js第二周/9.6/day12/指定层显示.html",
+		"/E/js第二周/9.6/day12/tab菜单.html",
+		"/E/js3周/day12/js/base.js",
+		"/E/js3周/day12/提示信息new.html",
+		"/E/js第二周/9.2/dom属性作业/JS简易年历/qf_demo.html",
+		"/E/参考文档js/JS初级Day11资料/JS初级阶段Day11/01_各种封装的练习/dom.js",
+		"/E/js初级/day1/demo1.html",
+		"/E/参考文档js/JS初级Day11资料/JS初级阶段Day11/抽奖.html",
+		"/E/js第二周/9.2/第14节课--事件/第13节课--事件/demo/换头像.html",
+		"/E/js第二周/day11/删除空白节点.html",
+		"/E/js第二周/day11/二级联动.html",
+		"/E/js第二周/9.5/day11/js/base.js",
+		"/E/js第二周/9.2/第12节课--DOM方法/demo/js/select.js",
+		"/E/js第二周/9.5/day11/table1.html",
+		"/E/js第二周/day9/漂浮广告.html",
+		"/E/js第二周/day9/无缝滚动.html",
+		"/E/js第二周/8.31/day8/form.html",
+		"/E/js第二周/8.31/day8/js/form1.js",
+		"/E/js第二周/day7/work-day7/index.html",
+		"/E/js第二周/9.1/day9/漂浮广告.html",
+		"/E/js第二周/9.1/day9/进度条.html",
+		"/E/js第二周/9.1/day9/打字效果.html",
+		"/E/js第二周/9.2/dom属性作业/网页换肤/css1.css",
+		"/E/js第二周/8.31/day8/js/form.js",
+		"/E/js第二周/day7/day7/demo8.html",
+		"/E/js第二周/day7/day7/demo6.html",
+		"/E/js第二周/day7/day7/demo5.html",
+		"/E/js初级/work1_day6/demo.html",
+		"/E/js第二周/day7/day7/demo3.html",
+		"/E/js第二周/8.31/day8/demo1.html",
+		"/E/js初级/8。26/day5/demo4.html",
+		"/E/js初级/8。26/day5/demo5.html",
+		"/E/js初级/8。26/day5/demo6.html",
+		"/E/js初级/8。26/day5/demo7.html",
+		"/E/js初级/8。26/day5/index.html",
+		"/E/js初级/8。26/day5/demo3.html",
+		"/E/js初级/work1_day5/js/base.js",
+		"/E/js初级/work1_day5/demo.html",
+		"/E/js初级/work_day5/demo.html",
+		"/C/Users/Administrator/Desktop/新建文件夹/js初级03.html",
+		"/C/Users/Administrator/Desktop/新建文件夹/work1.html",
+		"/E/js初级/8.25/day4/demo3.html",
+		"/E/js初级/8.25/day4/demo2.html",
+		"/E/js初级/8.25/day4/demo1.html",
+		"/E/js初级/8.25/day4/demo.html",
+		"/E/js初级/8。26/day5/demo1.html",
+		"/E/js初级/8。26/day5/demo2.html",
+		"/E/js初级/8.23/work_day2/demo.html",
+		"/E/js初级/8.23/day2/demo7.html",
+		"/E/js初级/day1/day1练习/背景变色.html",
+		"/E/js初级/day1/demo.html",
+		"/E/js初级/8.25/day4/demo4.html",
+		"/E/js初级/8.25/day4/index.html",
+		"/E/js初级/8.23/day2/demo13.html",
+		"/C/Users/Administrator/Desktop/work1.html",
+		"/C/Users/Administrator/Desktop/js初级03.html",
+		"/E/js初级/day3天/demo1.html",
+		"/E/js初级/day3天/demo5.html",
+		"/E/js初级/day3天/demo7.html",
+		"/E/js初级/day3天/demo.html",
+		"/E/js初级/day3天/index.html",
+		"/E/js初级/day3天/deom6.html",
+		"/E/js初级/day3天/demo9.html",
+		"/E/js初级/day3天/demo8.html",
+		"/E/js初级/day3天/demo2.html",
+		"/E/js初级/day3天/demo3.html",
+		"/E/js初级/day3天/demo4.html",
+		"/E/js初级/8.23/day2/demo10.html",
+		"/E/js初级/8.23/day2/demo11.html",
+		"/E/js初级/8.23/day2/demo12.html",
+		"/C/Users/Administrator/Desktop/2.js",
+		"/C/Users/Administrator/Desktop/2.html",
+		"/E/js初级/8.23/work_day2/demo1.html",
+		"/E/js初级/8.23/work_day2/index.html",
+		"/E/js初级/8.23/第一题（消费金额）.html",
+		"/E/js初级/8.23/day2_1.html",
+		"/E/js初级/8.23/day2/demo.html",
+		"/E/js初级/8.23/day2/demo5.html",
+		"/E/js初级/8.23/day2/demo6.html",
+		"/E/js初级/8.23/day2/demo8.html",
+		"/E/js初级/8.23/day2/demo9.html",
+		"/E/js初级/8.23/day2/demo1.html",
+		"/E/js初级/8.23/day2/demo3.html",
+		"/E/js初级/8.23/day2/demo2.html",
+		"/E/js初级/8.23/day2/demo4.html",
+		"/E/软件/HBuilder/HBuilder.exe",
+		"/E/js初级/第1节课--简介/课堂案例/课堂案例/例一.html",
+		"/C/Users/Administrator/Desktop/加法.html",
+		"/E/js初级/8.23/day2.。/index.html",
+		"/E/js初级/day2/index.html",
+		"/C/Users/Administrator/Desktop/第三周/定位综合应用/47.png"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

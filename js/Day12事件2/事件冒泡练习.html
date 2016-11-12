@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+		<style type="text/css">
+		
+			div {
+				border-radius: 50%;
+				border: 1px solid black;
+			}
+			#div1 {
+				width: 500px;
+				height: 500px;
+				margin: 0 auto;
+				background: red;
+			
+				
+			}
+			
+			#div2 {
+				width: 300px;
+				height: 300px;
+				margin: 0 auto;
+				background: yellow;
+				
+				margin-top: 80px;
+			}
+			
+			#div3 {
+				width: 100px;
+				height: 100px;
+				margin: 0 auto;
+				background: green;
+				margin-top: 80px;
+			}
+		</style>
+		
+		<script type="text/javascript">
+			window.onload = function(){
+				var div1 = document.querySelector('#div1'),
+					div2 = document.querySelector('#div2'),
+					div3 = document.querySelector('#div3');
+					
+				// 工具函数：产生指定范围的随机数
+				function randomFun (min, max) {
+					return parseInt( Math.random() * (max - min) + min);
+				}
+				
+				// 使用DOM2级事件处理给标签添加点击事件
+				function turn(){
+					// 修改标签背景颜色
+					var r = randomFun(0, 256);
+					var g = randomFun(0, 256);
+					var b = randomFun(0, 256);
+					
+					this.style.backgroundColor = 'rgb(' + r + ',' + g + ',' + b + ')';
+				}
+				div1.addEventListener('click', turn);
+				
+				div2.addEventListener('click', turn);
+				
+				div3.addEventListener('click', turn);
+				
+				
+			}
+		</script>
+	</head>
+	<body>
+		
+		
+			<div id="div1">
+				<div id="div2">
+					<div id="div3"></div>
+				</div>
+			</div>
+		
+		
+	</body>
+</html>
